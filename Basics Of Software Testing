@@ -1,6 +1,22 @@
-Software Testing Basics
+Software Testing 
 
-Software Testing :It is a process of ensuring that the software or the application is bug free and also meets the technical requirments.It mainly invovles 2 steps
+Software Testing :It is a process of ensuring that the software or the application is bug free and also meets the technical requirments.It mainly involves 2 steps
       i)Verification
       ii)Validation
+
+Verification:It is a process of ensuring that a software implements a particular function.
+Validation:It is a process of ensuring that a software meets all the customer requirements.
+
+Verification: “Are we building the product right?” 
+Validation: “Are we building the right product?” 
+
+Testing involves 2 types
+1)Manual Testing
+2)Automation Testing
+
+Manual Testing:It is a process where a tester puts himself in the place of an end user and tests the software for any bugs.The entire process involved here is manual.There is no use of any script or automation tool.
+Manual Testers use test scenarios,test cases and test plans in order to test the completeness of the product.
+
+Automation Testing:It is a process of Where a tester makes use of a software to test the product.The main GOAL of automation is to re-execute the test cases executed ,manually repeatedly.The main purpose of automation testing is for regression testing.
+
 
