@@ -20,4 +20,7 @@ For Example Divide by zero
 
 6)ALL PAIR TESTING TECHNIQUE:It is used to usd to test all the discrete possible values.Tis technique comes into picture when we have combination checbox or radio butons.
 
-7)
+7)GRAPH BASED TESTING METHOD:Here we draw a graph between Cause (input) and the effects which triggers the effects.
+  Example:Employee applying leave having to approve from both HR and Manager.
+
+8)COMPARISION TESTING:Its  a testing tehnique where strengths and weakness of a software is comapred with the already exsisting softwares.
