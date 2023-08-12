@@ -16,4 +16,8 @@ For Example:consider we need to uplaod any image in we bsite.it will ask for let
 This technique is applied speciialy to those systems who provied a specific number of attempts to access them.
 
 5)ERROR GUESING TECHNIQUE:Its doesent invovle any particular method to guess the error.Its a technique where the tester identfyes the erros based on his experience.Its also known as experience based testing.
-    For Example Divide by zero
+For Example Divide by zero
+
+6)ALL PAIR TESTING TECHNIQUE:It is used to usd to test all the discrete possible values.Tis technique comes into picture when we have combination checbox or radio butons.
+
+7)
