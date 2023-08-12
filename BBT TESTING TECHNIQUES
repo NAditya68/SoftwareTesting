@@ -1,1 +1,15 @@
 TECHNIQUES USED FOR BLACK BOX TESTING  
+
+BLACKBOX TESTING- It is a testing process in which the tester who performs the testing is not aware of the coding or internal structure.
+
+Diffrent techniques used are
+
+1)BOUNDARY VALUE ANALYSIS-In this method the boundary values of a system are targetted.For example lets us say  a field accepts a value from 1-10.Then we give values 0,1,2, and 9,10,11 to check the behaviour.
+This technique is mainly done to check the behaviour of a system at its boundary.
+
+2)EQUIVALNCE PARTITON TESTING:In this method ,the various input are divieded into catrgories to valid and invalid values and its mandatory that all the catorgies must shoe imilar behaviour.
+
+3)DECISION TABLE TECHNIQUE:It is a technique where a system is tested for various combinations and their respective output is captured in a tabluar format.
+For Example:consider we need to uplaod any image in we bsite.it will ask for lets say a jpeg format and max size as 100kb.
+
+4)
