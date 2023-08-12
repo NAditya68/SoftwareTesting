@@ -12,4 +12,5 @@ This technique is mainly done to check the behaviour of a system at its boundary
 3)DECISION TABLE TECHNIQUE:It is a technique where a system is tested for various combinations and their respective output is captured in a tabluar format.
 For Example:consider we need to uplaod any image in we bsite.it will ask for lets say a jpeg format and max size as 100kb.
 
-4)
+4)State Transition Technique:This is technique where we test the the change in state of a software process.For example ATM pin enetered correctly once ,twice and incorreclty once twice and thrice (it must blocked).
+    This technique is applied speciialy to those systems who provied a specific number of attempts to access them.
