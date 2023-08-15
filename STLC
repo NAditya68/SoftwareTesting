@@ -1,1 +1,15 @@
+STLC-It stands for software Test Life Cycle
 
+Phases of STLC
+
+1)Requirment Analysis-In this phase the tester gathers the required information about the softwares functional and non functional requirments fom the developers and various other stake holders.
+
+2)Test Planning:In this phase Test strategy and resources are outlined.In this phase e also sepcify the timeline and vaious tools we are going to use for testing.
+
+3)Test Case Development:In this phase the tester writes a detailed test cases for the new requirment and also get its reviewed the lead/manager.
+
+4)Test Enviornment setup:In this phase the qa will set up an eniornemnet which is mirriroring a production envioirnemnt.
+
+5)Test Execution:In This phase ,All the test cases written are executed in the test enviornment.
+
+6)Test Closure:After testing ,the testing results are reported and the testing is officialy closed.
